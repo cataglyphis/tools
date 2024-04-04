@@ -5,3 +5,7 @@ common tools
 
 `cp wezterm.lua ~/.wezterm`
 
+
+## lazyvim
+
+
